@@ -16,7 +16,7 @@ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-key F42ED6FBAB
 8.更新软件列表
 sudo apt-get update
 9.安装ros库（本人网速正常，只用了5分多钟）
-sudo apt-get install ros-melodic-desktop-full
+sudo apt-get install ros-kinetic-desktop-full
 10.初始化rosdep
 先   sudo rosdep init
 后   rosdep update
